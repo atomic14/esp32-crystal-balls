@@ -1,4 +1,5 @@
 # Look At My Shiny Crystal Balls!
+Watch the explaner video [here](https://www.youtube.com/watch?v=1-Rm0mgg2RI).
 
 [![Absolute Balls!](https://img.youtube.com/vi/1-Rm0mgg2RI/0.jpg)](https://www.youtube.com/watch?v=1-Rm0mgg2RI)
 
