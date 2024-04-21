@@ -1,5 +1,7 @@
 # Look At My Shiny Crystal Balls!
 
+[![Absolute Balls!](https://img.youtube.com/vi/1-Rm0mgg2RI/0.jpg)](https://www.youtube.com/watch?v=1-Rm0mgg2RI)
+
 I got some of these [crystal balls](https://s.click.aliexpress.com/e/_DDdvNqJ) from AliExpress for Christmas.
 
 ![Crystal Balls](https://ae01.alicdn.com/kf/Se6ddd909f39d40cf9bdf32453d28c092d/6cm-3D-Crystal-Ball-Glass-Planet-LED-Warm-Night-Light-Laser-Engraved-Solar-System-Globe-Universe.jpg_.webp)
