@@ -1,7 +1,10 @@
 # Look At My Shiny Crystal Balls!
-Watch the explaner video [here](https://www.youtube.com/watch?v=1-Rm0mgg2RI).
+
+This PCB is now supporting two of my projects: [Crystal Balls](https://www.youtube.com/watch?v=1-Rm0mgg2RI) and my [Flame Lamp](https://youtu.be/qe_sFo2qRoI).
 
 [![Absolute Balls!](https://img.youtube.com/vi/1-Rm0mgg2RI/0.jpg)](https://www.youtube.com/watch?v=1-Rm0mgg2RI)
+
+[![Flame Lamp](https://img.youtube.com/vi/qe_sFo2qRoI/0.jpg)](https://www.youtube.com/watch?v=qe_sFo2qRoI)
 
 I got some of these [crystal balls](https://s.click.aliexpress.com/e/_DDdvNqJ) from AliExpress for Christmas.
 

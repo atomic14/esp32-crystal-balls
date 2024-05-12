@@ -11712,7 +11712,7 @@
 		(attr smd)
 		(fp_line
 			(start -3.65 2.75)
-			(end 3.65 2.749999)
+			(end 3.65 2.749998)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -11721,7 +11721,7 @@
 			(uuid "0773dead-f84a-4254-a140-1bb07f43d97b")
 		)
 		(fp_line
-			(start -3.65 -2.749999)
+			(start -3.65 -2.749998)
 			(end 3.65 -2.75)
 			(stroke
 				(width 0.12)
@@ -12834,7 +12834,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at -0.000001 -3.999999 102)
+			(at -0.000002 -3.999999 102)
 			(layer "B.Fab")
 			(uuid "b4a85bc7-b41f-4c60-bfa0-997287c82bfc")
 			(effects
@@ -14242,7 +14242,7 @@
 			(uuid "ba59432f-4b2f-431e-b3fa-e6bd40a7273e")
 		)
 		(fp_line
-			(start -3.65 -2.749999)
+			(start -3.65 -2.749998)
 			(end 3.65 -2.75)
 			(stroke
 				(width 0.12)
@@ -14253,7 +14253,7 @@
 		)
 		(fp_line
 			(start -3.65 2.75)
-			(end 3.65 2.749999)
+			(end 3.65 2.749998)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -16086,7 +16086,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "GND PWR DAT"
+	(gr_text "PWR GND DAT"
 		(at 148.336 86.4108 54)
 		(layer "F.SilkS")
 		(uuid "61b077e3-89fa-4403-b368-f85242d0fbb2")
