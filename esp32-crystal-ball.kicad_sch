@@ -5,258 +5,6 @@
 	(uuid "16e72a75-159f-4abc-8089-c9b5ed8ef133")
 	(paper "A3")
 	(lib_symbols
-		(symbol "B3U-3000P:B3U-3000P"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "S"
-				(at -7.6309 5.0873 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "B3U-3000P"
-				(at -7.6337 -7.6337 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "B3U-3000P:SW_B3U-3000P"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "\nTactile Switch SPST-NO Side Actuated Surface Mount, Right Angle\n"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MF" "Omron"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "Custom Package Omron"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/B3U-3000P/Omron+Electronics+Inc-EMC+Div/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/B3U-3000P/Omron+Electronics+Inc-EMC+Div/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "B3U-3000P"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46887&manufacturer=Omron&part_name=B3U-3000P&search_term=None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Omron"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "B3U-3000P_0_0"
-				(rectangle
-					(start -8.9055 -1.2722)
-					(end -7.62 1.27)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -7.62 -5.08)
-					(end 7.62 5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -7.62 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 0 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 7.6278 -1.2713)
-					(end 8.89 1.27)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(pin passive line
-					(at 12.7 0 180)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -12.7 0 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "BAS5202VH6327XTSA1:BAS5202VH6327XTSA1"
 			(pin_names hide)
 			(exclude_from_sim no)
@@ -1738,6 +1486,207 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "EasyEDA2Kicad:TS24CA"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TS24CA"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:SW-SMD_TS24CA"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Tactile-Switches_SHOU-HAN-TS24CA_C393942.html"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C393942"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TS24CA_0_1"
+				(circle
+					(center -2.54 -2.54)
+					(radius 0.51)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.05 -2.54) (xy -5.08 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.05 -2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -2.03) (xy 2.54 -0.51) (xy 2.54 -0.51)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 -2.54)
+					(radius 0.51)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 2.54 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 -2.54 180)
+					(length 2.54)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6709,6 +6658,16 @@
 	)
 	(wire
 		(pts
+			(xy 32.258 101.6) (xy 41.275 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0eb00465-f0cf-4445-a523-da659768692a")
+	)
+	(wire
+		(pts
 			(xy 74.295 243.84) (xy 80.645 243.84)
 		)
 		(stroke
@@ -6929,6 +6888,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 144.78) (xy 31.75 150.114)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "378f95fc-b77d-44a8-ab1a-ea5bd83fda7e")
+	)
+	(wire
+		(pts
 			(xy 354.33 198.12) (xy 378.46 198.12)
 		)
 		(stroke
@@ -7129,7 +7098,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 170.18) (xy 31.75 171.45)
+			(xy 31.75 165.354) (xy 31.75 171.45)
 		)
 		(stroke
 			(width 0)
@@ -7316,6 +7285,16 @@
 			(type default)
 		)
 		(uuid "7115b5f4-e86c-4dbd-84ba-5f5bb09ff06a")
+	)
+	(wire
+		(pts
+			(xy 32.258 101.6) (xy 32.258 106.426)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "715d6312-d555-4944-bb7b-e9d5cdcd5adf")
 	)
 	(wire
 		(pts
@@ -7779,16 +7758,6 @@
 	)
 	(wire
 		(pts
-			(xy 32.385 101.6) (xy 41.275 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bf63192c-297e-406a-80d5-a8748df5a466")
-	)
-	(wire
-		(pts
 			(xy 328.93 177.8) (xy 328.93 182.88)
 		)
 		(stroke
@@ -8036,6 +8005,16 @@
 			(type default)
 		)
 		(uuid "e93d50ef-6869-4787-a67a-4c3ccfb81fb0")
+	)
+	(wire
+		(pts
+			(xy 32.258 121.666) (xy 32.258 123.952)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebcdea89-8fd8-49e4-9607-d64771a53b3b")
 	)
 	(wire
 		(pts
@@ -10132,7 +10111,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NCP167BMX330TBG:VREG_NCP167BMX330TBG"
+		(property "Footprint" "NCP167BMX330TBG-v2:VREG_NCP167BMX330TBG"
 			(at 102.235 50.165 0)
 			(effects
 				(font
@@ -11050,45 +11029,43 @@
 		)
 	)
 	(symbol
-		(lib_id "B3U-3000P:B3U-3000P")
-		(at 32.385 114.3 270)
+		(lib_id "power:GND")
+		(at 26.67 165.354 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "379c5078-4c9a-41b6-9ce2-61a76f8c5595")
-		(property "Reference" "EN1"
-			(at 34.29 105.41 90)
+		(fields_autoplaced yes)
+		(uuid "39864977-8109-4a21-9b64-31bc8ffea386")
+		(property "Reference" "#PWR027"
+			(at 26.67 171.704 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-			)
-		)
-		(property "Value" "B3U-3000P"
-			(at 34.29 123.825 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Footprint" "B3U-3000P:SW_B3U-3000P"
-			(at 32.385 114.3 0)
+		(property "Value" "GND"
+			(at 26.67 170.434 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 165.354 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 32.385 114.3 0)
+			(at 26.67 165.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11096,122 +11073,22 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nTactile Switch SPST-NO Side Actuated Surface Mount, Right Angle\n"
-			(at 32.385 114.3 0)
+		(property "Description" ""
+			(at 26.67 165.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MF" "Omron"
-			(at 32.385 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "Custom Package Omron"
-			(at 32.385 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 32.385 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/B3U-3000P/Omron+Electronics+Inc-EMC+Div/view-part/?ref=eda"
-			(at 32.385 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B3U-3000P/Omron+Electronics+Inc-EMC+Div/view-part/?ref=snap"
-			(at 32.385 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "B3U-3000P"
-			(at 32.385 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46887&manufacturer=Omron&part_name=B3U-3000P&search_term=None"
-			(at 32.385 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 32.385 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Omron"
-			(at 32.385 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "3787758e-8af0-4a4f-9b5a-3bce40912d4c")
-		)
-		(pin "2"
-			(uuid "051ac3b9-c24c-4a54-bb60-4d45e84865b6")
+			(uuid "dc7d21ee-d5ce-40ae-ac12-05f0b8d3f2ea")
 		)
 		(instances
 			(project "esp32-crystal-ball"
 				(path "/16e72a75-159f-4abc-8089-c9b5ed8ef133"
-					(reference "EN1")
-					(unit 1)
-				)
-			)
-			(project "micro-esp32-s3"
-				(path "/f9eaa715-42ab-472f-93ff-7b5869cc08e7"
-					(reference "S1")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -12345,44 +12222,34 @@
 		)
 	)
 	(symbol
-		(lib_id "B3U-3000P:B3U-3000P")
-		(at 31.75 157.48 270)
+		(lib_id "power:GND")
+		(at 27.178 106.426 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "72bc21b0-1d7b-4a43-8515-5e274acbe870")
-		(property "Reference" "BOOT1"
-			(at 34.925 147.955 90)
+		(fields_autoplaced yes)
+		(uuid "6d9b751a-239e-479e-ae0c-ebd9f62790c3")
+		(property "Reference" "#PWR030"
+			(at 27.178 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-			)
-		)
-		(property "Value" "B3U-3000P"
-			(at 34.29 166.37 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "B3U-3000P:SW_B3U-3000P"
-			(at 31.75 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 31.75 157.48 0)
+		(property "Value" "GND"
+			(at 27.178 101.346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 27.178 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12390,122 +12257,31 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nTactile Switch SPST-NO Side Actuated Surface Mount, Right Angle\n"
-			(at 31.75 157.48 0)
+		(property "Datasheet" ""
+			(at 27.178 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "MF" "Omron"
-			(at 31.75 157.48 0)
+		(property "Description" ""
+			(at 27.178 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "Custom Package Omron"
-			(at 31.75 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 31.75 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/B3U-3000P/Omron+Electronics+Inc-EMC+Div/view-part/?ref=eda"
-			(at 31.75 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B3U-3000P/Omron+Electronics+Inc-EMC+Div/view-part/?ref=snap"
-			(at 31.75 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "B3U-3000P"
-			(at 31.75 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=46887&manufacturer=Omron&part_name=B3U-3000P&search_term=None"
-			(at 31.75 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 31.75 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Omron"
-			(at 31.75 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "c44c9434-0603-40ed-8efc-4d2972cc673f")
-		)
-		(pin "2"
-			(uuid "e051f0e8-6a4b-4c8b-8a9c-98014601206a")
+			(uuid "5d45ff53-02c8-43e7-9734-9d98f19a7865")
 		)
 		(instances
 			(project "esp32-crystal-ball"
 				(path "/16e72a75-159f-4abc-8089-c9b5ed8ef133"
-					(reference "BOOT1")
-					(unit 1)
-				)
-			)
-			(project "micro-esp32-s3"
-				(path "/f9eaa715-42ab-472f-93ff-7b5869cc08e7"
-					(reference "S2")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -12912,6 +12688,91 @@
 			(project "esp32-crystal-ball"
 				(path "/16e72a75-159f-4abc-8089-c9b5ed8ef133"
 					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EasyEDA2Kicad:TS24CA")
+		(at 29.718 114.046 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "863a6b33-bbf1-4bb2-a0ee-d69cf517ab86")
+		(property "Reference" "SW2"
+			(at 33.528 112.7759 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TS24CA"
+			(at 33.528 115.3159 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:SW-SMD_TS24CA"
+			(at 39.878 114.046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Tactile-Switches_SHOU-HAN-TS24CA_C393942.html"
+			(at 42.418 114.046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 29.718 114.046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C393942"
+			(at 44.958 114.046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "22"
+			(uuid "b782196c-eed1-494c-b022-bec7fa7d2230")
+		)
+		(pin "1"
+			(uuid "4e3b0633-4622-4003-a91e-751a4495e0f8")
+		)
+		(pin "4"
+			(uuid "2f8ad59e-9c23-49f0-9055-45e9bb9d6755")
+		)
+		(pin "3"
+			(uuid "179f08b7-d5d5-4c0d-805f-d08485c03e10")
+		)
+		(instances
+			(project "esp32-crystal-ball"
+				(path "/16e72a75-159f-4abc-8089-c9b5ed8ef133"
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -14705,7 +14566,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 32.385 127 0)
+		(at 32.258 123.952 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14714,7 +14575,7 @@
 		(fields_autoplaced yes)
 		(uuid "be78f787-eb05-4f3b-8a4a-e7b9770807eb")
 		(property "Reference" "#PWR03"
-			(at 32.385 133.35 0)
+			(at 32.258 130.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14723,7 +14584,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 32.385 132.08 0)
+			(at 32.258 129.032 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14731,7 +14592,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 32.385 127 0)
+			(at 32.258 123.952 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14740,7 +14601,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 32.385 127 0)
+			(at 32.258 123.952 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14749,7 +14610,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 32.385 127 0)
+			(at 32.258 123.952 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15724,6 +15585,91 @@
 		)
 	)
 	(symbol
+		(lib_id "EasyEDA2Kicad:TS24CA")
+		(at 29.21 157.734 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e0b66842-d8eb-487b-9041-6abc91825272")
+		(property "Reference" "SW1"
+			(at 33.02 156.4639 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TS24CA"
+			(at 33.02 159.0039 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:SW-SMD_TS24CA"
+			(at 39.37 157.734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Tactile-Switches_SHOU-HAN-TS24CA_C393942.html"
+			(at 41.91 157.734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 29.21 157.734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C393942"
+			(at 44.45 157.734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "22"
+			(uuid "86e67a25-c99a-4b3d-9022-e80d135f4b1f")
+		)
+		(pin "1"
+			(uuid "848ca262-1f4c-4120-9736-2d649a616474")
+		)
+		(pin "4"
+			(uuid "837cfb75-d7fb-4675-801f-03eb12961119")
+		)
+		(pin "3"
+			(uuid "b895fed3-96e2-463c-86e4-862b4eb8f4b3")
+		)
+		(instances
+			(project ""
+				(path "/16e72a75-159f-4abc-8089-c9b5ed8ef133"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 146.685 45.085 0)
 		(unit 1)
@@ -16088,6 +16034,72 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 27.178 121.666 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ee24ec77-55c1-450e-b0f3-7e29a32d185a")
+		(property "Reference" "#PWR029"
+			(at 27.178 128.016 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 27.178 126.746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 27.178 121.666 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.178 121.666 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 27.178 121.666 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1e65e74c-6ff4-4168-b2f7-e5818afb3f7a")
+		)
+		(instances
+			(project "esp32-crystal-ball"
+				(path "/16e72a75-159f-4abc-8089-c9b5ed8ef133"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 183.515 197.485 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16285,6 +16297,72 @@
 			(project "esp32-crystal-ball"
 				(path "/16e72a75-159f-4abc-8089-c9b5ed8ef133"
 					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 26.67 150.114 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f38dfeb7-f499-4000-8adc-6467010d7241")
+		(property "Reference" "#PWR028"
+			(at 26.67 143.764 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 26.67 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 26.67 150.114 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 26.67 150.114 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 26.67 150.114 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "156110b9-7bec-4541-971b-8bee82b990c1")
+		)
+		(instances
+			(project "esp32-crystal-ball"
+				(path "/16e72a75-159f-4abc-8089-c9b5ed8ef133"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
